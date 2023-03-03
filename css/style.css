@@ -36,7 +36,7 @@ body {
 .about-me-profession {
   font-style: normal;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 25px;
   line-height: 17px;
   font-weight: 700;
   color: black;
@@ -189,7 +189,7 @@ body {
   margin-right: 7px;
 }
 .contact-section-link {
-  color: #575e6a;
+  color: #eef0f3;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
